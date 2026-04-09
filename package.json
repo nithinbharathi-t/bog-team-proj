@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nithinbharathi-t/bog-team-proj#readme",
   "dependencies": {
-    "paperclipai": "^2026.403.0"
+    "paperclipai": "^2026.403.0",
+    "pi": "^2.0.5"
   }
 }
